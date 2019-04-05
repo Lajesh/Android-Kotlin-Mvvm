@@ -8,5 +8,7 @@ package arch.lavaira.com.android_kotlin_mvvm.common
  * Modified on: 4/3/19
  *****/
 object JsonKeyConstants{
+    const val JSON_KEY_USERNAME = "userName"
+    const val JSON_KEY_PASSWORD = "password"
 
 }
